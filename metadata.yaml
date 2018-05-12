@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '39092'
     url: http://www.gutenberg.org/2009/agents/39092
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37844#The-Bront--Family-Vol.-2-of-2with-special-reference-to-Patrick-Branwell-Bront-
 gutenberg_issued: '2011-10-25'
 gutenberg_type: Text
 identifiers:
